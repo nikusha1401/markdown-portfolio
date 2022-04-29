@@ -1,1 +1,1 @@
-[image leraning](_includes/02-image.md)
+[image leraning](https://octodex.github.com/images/yaktocat.png)
